@@ -184,19 +184,6 @@ Combine both! Use Approach 1 for fast retrieval with human-friendly metadata, th
 | **Scalability** | Simple, fast | More complex but enables richer queries |
 | **Use Cases** | General Q&A | Structured domain knowledge, entity-centric queries |
 
----
-
-## 🔮 Future Enhancements
-
-- **Multi-hop Reasoning**: Answer questions requiring chains of entity relationships
-- **Temporal Graphs**: Track how entities and relationships evolve over time
-- **Confidence Scoring**: Assign confidence to extracted entities and relationships
-- **Dynamic Updates**: Add new documents and incrementally extend the graph
-- **Web UI**: Interactive dashboard for graph exploration and querying
-- **Hybrid Retrieval**: Combine vector search with graph traversal in a single pipeline
-
----
-
 ## 📄 License
 
 Open source. Feel free to adapt for your use case.
